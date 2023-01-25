@@ -1,0 +1,26 @@
+.round-button {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.blue-marine-button {
+    background-color: rgb(0, 115, 255);
+    color: white;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.button-container {
+    width: 600px;
+    height: 150px;
+    margin: auto;
+}
+
+body {
+
+    background-color: beige;
+}
